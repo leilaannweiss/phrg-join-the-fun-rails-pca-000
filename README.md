@@ -29,6 +29,5 @@ Run the tests using the `rspec` or `learn` command.
 * [Active Record Associations: Join Table section](http://guides.rubyonrails.org/association_basics.html#the-has-many-through-association)
 
 ## Does this need an update?
-Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-join-the-fun-rails/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-join-the-fun-rails/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
-<p data-visibility='hidden'>PHRG Join the Fun</p>
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-join-the-fun-rails/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-join-the-fun-rails/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
